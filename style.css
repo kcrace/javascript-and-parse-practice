@@ -1,0 +1,29 @@
+body {
+	font-family: Helvetica, arial, sans-serif;
+	color: gray;
+}
+
+.wrapper {
+	width: 600px;
+	margin: 50px auto;
+	border: 1px solid gray;
+	padding: 20px;
+}
+
+.recipes-container ul li{
+	list-style-type: none;
+	width: 400px;
+	height: 150px;
+	padding: 15px;
+	border: 1px solid #acacac;
+	font-weight: bolder;
+
+}
+
+h3 {
+	font-size: 24px
+}
+
+p {
+	font-size: 18px
+}
